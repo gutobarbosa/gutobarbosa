@@ -14,5 +14,3 @@ Sou um FullStack Developer ✔️ em constante progresso 🚀 .
  <br/>✔️ Meu perfil do linkedin: https://www.linkedin.com/in/barbosaaugusto/
   Espero que isso seja o suficiente pra me conhecer um pouquinho, mais de qualquer forma vocês possuem meu contato 😁
 
-
--->
