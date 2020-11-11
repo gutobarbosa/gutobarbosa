@@ -6,7 +6,7 @@ Sou um FullStack Developer ✔️ em constante progresso 🚀 .
 
  <br/>🗄️ Estou trabalhando atualmente na **Big Tires Pneus**
  <br/>💜 Buscando colaborar com projetos em Front-end/Back-end
- <br/>💜 Atualmente sou responsavel pela área de TI da empresa no qual trabalho, não necessariamente focado com desenvolvimento, mais também BI e Projetos.
+ <br/>💜 Atualmente sou responsavel pela área de TI da empresa no qual trabalho, focado em desenvolvimento, BI e Projetos.
  <br/>📚 Posso te ajudar com CSS Grid Layout e Flexbox
  <br/>💻 Minha stack: ReactJS,React Native, NodeJS, Php, Javascript, MySql, Css, Html, Jquery, Typescript, Java, SpringBoot, Selenium, Appium & entre outros...
  <br/>👨‍👩‍👦  Sobre mim: Curto tecnologias, games CS:GO, LoL, Valorant, seriados no Netflix, tenho uma familia linda composta por eu, minha esposa e meu filho chamado Heitor, que são a alegria da minha vida 😍
