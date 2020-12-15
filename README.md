@@ -4,7 +4,7 @@
 Sou um super fã da área de TI no geral, e amo desenvolver e não meço esforços para aprender todo dia mais para me tornar um profissional cada vez melhor 😁 uma das melhores sensações do mundo é resolver problemas utilizando a programação 😍
 Sou um FullStack Developer ✔️ em constante progresso 🚀 .
 
- <br/>🗄️ Estou trabalhando atualmente no **Itau Unibanco**
+ <br/>🗄️ Estou trabalhando atualmente no **Itau Unibanco** :orange_heart::blue_heart:
  <br/>💜 Buscando colaborar com projetos em Front-end/Back-end
  <br/>💜 Atualmente sou Engenheiro do Software 😍😍😍😍😍😍😍.
  <br/>📚 Posso te ajudar com Java, Spring boot, API, BD (Postgres, MySql e etc), API rest, React, React Native, AngularJS, NodeJS e etc...
